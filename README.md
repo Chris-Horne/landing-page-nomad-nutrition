@@ -4,7 +4,7 @@ This is a responsive, one-page landing site demo for a fictional brand called **
 
 ## 💻 Live Demo
 
-🌐 [View the live site here](https://your-username.github.io/landing-page-nomad-nutrition/)
+🌐 [View the live site here](https://chris-horne.github.io/landing-page-nomad-nutrition/)
 
 ## 🔧 Built With
 
@@ -31,4 +31,4 @@ This is a responsive, one-page landing site demo for a fictional brand called **
 
 Clone the repo or download it as a zip:
 ```bash
-git clone https://github.com/your-username/landing-page-nomad-nutrition
+git clone https://chris-horne.github.io/landing-page-nomad-nutrition/
